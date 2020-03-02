@@ -1,7 +1,6 @@
 package com.hwua.pojo;
 
-public class Money {
+public class Student {
     private Long id;
-    private Long num;
     private String name;
 }
